@@ -1,0 +1,3 @@
+sudo pkill openvpn && exit
+sudo killall openvpn && exit
+echo Failed to kill openvpn
